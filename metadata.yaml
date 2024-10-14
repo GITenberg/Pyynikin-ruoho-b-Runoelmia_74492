@@ -1,0 +1,28 @@
+_repo: Pyynikin-ruoho-b-Runoelmia_74492
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pennanen, Ain'Elisabet
+    birthdate: 1881
+    deathdate: 1945
+    gutenberg_agent_id: '54334'
+    url: http://www.gutenberg.org/2009/agents/54334
+    wikipedia: https://fi.wikipedia.org/wiki/Ain%E2%80%99Elisabet_Pennanen
+description: ''
+gutenberg_issued: '2024-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74492'
+language: fi
+pgterms:marc905: 20240915231325pennanen
+pgterms:marc906: '1911'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aVaasa :$bPohjalaisen kirjapaino, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Pyynikin ruoho : $b Runoelmia'
+url: http://www.gutenberg.org/ebooks/74492
